@@ -4,4 +4,7 @@ seaborn
 matplotlib
 tensorflow
 keras
+psutil
+time
+tensorflow_datasets
 -e .
