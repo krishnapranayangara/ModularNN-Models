@@ -12,7 +12,7 @@ Modularity in Deep learning Models have become imperative due to the rapid growt
 
 In order to understand the effects of compression, we have taken two SOTA models (Alexnet and ZFNet) and tried to compress them using three different techniques.
 For the compression techniques, we have considered,
-- Post training quantization
+- Post training quantization
 - Quantization Aware Training
 - Knowledge distillation
 
